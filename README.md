@@ -4,7 +4,7 @@
 
 SRE/DevOps engineer. Proud dog father. Digital nomad.
 
-Living in Istanbul, Turkey. 👨‍💻🇹🇷
+Living in Tbilisi, Georgia. 👨‍💻🇹🇷
 
 ## 🤔 What I'm interested in
 
@@ -19,7 +19,7 @@ Living in Istanbul, Turkey. 👨‍💻🇹🇷
 - k8s
 - Go
 
-Speaking Russian and English. Learning Turkish and Japanese.
+Speaking Russian and English.
 
 ## 💼 Work
 
