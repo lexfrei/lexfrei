@@ -4,7 +4,7 @@
 
 SRE/DevOps engineer. Proud dog father. Digital nomad.
 
-Living in Tbilisi, Georgia. 👨‍💻🇹🇷
+Living in Tbilisi, Georgia. 👨‍💻🇬🇪
 
 ## 🤔 What I'm interested in
 
