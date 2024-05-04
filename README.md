@@ -23,7 +23,7 @@ Speaking Russian and English.
 
 ## 💼 Work
 
-Currently I'm working at [SDG](https://socialdiscoverygroup.com/) as a SRE/DevOps engineer.
+Currently I'm working at RingCentral as a SRE/DevOps engineer.
 
 Not in active job search, but open for interesting offers.
 
