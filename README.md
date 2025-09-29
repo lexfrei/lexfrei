@@ -1,10 +1,10 @@
-# 👋 Hi, my name is Aleksei Sviridkin
+# 👋 Hi, my name is Aleksei Sviridkin, 32
 
 ## 📝 About me
 
-SRE/DevOps engineer. Proud dog father. Digital nomad.
+SRE/DevOps engineer. Proud dog father.
 
-Living in Tbilisi, Georgia. 👨‍💻🇬🇪
+Living in Moscow, Russia. 👨‍💻🇷🇺
 
 ## 🤔 What I'm interested in
 
@@ -25,7 +25,7 @@ Speaking Russian and English.
 
 Currently I'm working at RingCentral as a SRE/DevOps engineer.
 
-Not in active job search, but open for interesting offers.
+Actively looking for job opportunities and relocation offers.
 
 ## 🎮 My hobbies
 
