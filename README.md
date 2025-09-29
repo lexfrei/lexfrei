@@ -4,7 +4,7 @@
 
 SRE/DevOps engineer. Proud dog father.
 
-Living in Moscow, Russia. 👨‍💻🇷🇺
+Living in Moscow, Russia. Looking for relocation opportunities. 👨‍💻🇷🇺
 
 ## 🤔 What I'm interested in
 
@@ -23,9 +23,7 @@ Speaking Russian and English.
 
 ## 💼 Work
 
-Currently I'm working at RingCentral as a SRE/DevOps engineer.
-
-Actively looking for job opportunities and relocation offers.
+Currently unemployed and actively looking for job opportunities and relocation offers.
 
 ## 🎮 My hobbies
 
