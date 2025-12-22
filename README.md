@@ -4,8 +4,6 @@
 
 SRE/DevOps engineer. Proud dog father.
 
-Living in Moscow, Russia. Looking for relocation opportunities. 👨‍💻🇷🇺
-
 ## 🤔 What I'm interested in
 
 - ARM adoption
@@ -23,7 +21,7 @@ Speaking Russian and English.
 
 ## 💼 Work
 
-Currently unemployed and actively looking for job opportunities and relocation offers.
+SRE at [Ænix](https://github.com/aenix-io).
 
 ## 🎮 My hobbies
 
